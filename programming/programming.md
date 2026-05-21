@@ -8,7 +8,7 @@
 | [Node.js/npm](#nodejsnpm) | [Sync & Async](#sync--async) | [Continuous Integration and Delivery](#continuous-integration-and-delivery) |
 | [SQL](#sql) | [DBMS: SQLite, Postgres, HANA](#dbms) | |
 | [VSCode (IDE)](#vscode-ide) | [TDD](#tdd) | |
-| [Git (Versionamento)](#git-versionamento) | [Git (Branches, pull request)​](#git-branches-pr) | |
+| [Git (Versioning)](#git-versioning) | [Git (Branches, pull request)​](#git-branches-pr) | [Git Commitizen](#git-commitizen) |
 | [Python](#python) | [Regex](#regex) | |
 | [Java (Orientação a Objetos)](#java-oop) | |
 | [Bash/Batch](#bashbatch) | |
@@ -74,7 +74,7 @@ O Visual Studio Code (VSCode) é o nosso Ambiente de Desenvolvimento Integrado (
 - [ ] *PT* Blog RocketSeat [Guia de configuração do VSCode para iniciantes](https://www.rocketseat.com.br/blog/artigos/post/configurar-ambiente-vscode-iniciantes)
 - [ ] *PT* Pacote de Idioma Português Brasileiro para VS Code [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)
 
-### **Git (Versionamento)**
+### **Git (Versioning)**
 Git is a Distributed Version Control System. It's used to maintain source code safe from the birth to the deprecation of the software, and properly support it during the evolution. **Never code without a version control**.
 
 Git é um Sistema de Controle de Versão Distribuído. Ele é usado para manter o código-fonte seguro desde o nascimento até a descontinuação do software, e para dar suporte adequado durante sua evolução. **Nunca programe sem um controle de versão**.
@@ -209,12 +209,12 @@ Artificial Intelligence (AI), especially now with Large Language Models (LLMs), 
 
 Inteligência Artificial (IA), especialmente agora com os Modelos de Linguagem de Grande Escala (LLMs), pode ser uma aliada poderosa ou uma dor de cabeça. Aprenda a programar com assistentes de IA, o que você pode pedir a eles e o que pode esperar dessas ferramentas. Entenda como e quando utilizá-las. Use-as com sabedoria.
 
-- *EN* **Martin Fowler [Patterns for Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/)**
-- *EN* Coursera [Jetbrains AI-Assisted Programming](https://www.coursera.org/learn/ai-assisted-programming)
-- *EN* O'Reilly Book [AI-Assisted
-Programming - Tom Taulli](https://www.hkdca.com/wp-content/uploads/2025/06/ai-assisted-programming-oreilly.pdf)
+- [ ] *EN* **Martin Fowler [Patterns for Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/)**
   >AI assistants are like junior developers with infinite energy but zero context.
-- *PT* Google [Ferramentas de programação e geração de código com IA](https://cloud.google.com/use-cases/ai-code-generation?hl=pt-BR)
+- [ ] *EN* Coursera [Jetbrains AI-Assisted Programming](https://www.coursera.org/learn/ai-assisted-programming)
+- [ ] *EN* O'Reilly Book [AI-Assisted
+Programming - Tom Taulli](https://www.hkdca.com/wp-content/uploads/2025/06/ai-assisted-programming-oreilly.pdf)
+- [ ] *PT* Google [Ferramentas de programação e geração de código com IA](https://cloud.google.com/use-cases/ai-code-generation?hl=pt-BR)
 
 
 ### **Container (Kyma, Docker, K8s)**
@@ -233,8 +233,13 @@ When you make changes to your code regularly, need to deploy them to the server,
 
 Quando você faz alterações no seu código regularmente, precisa implantá-las no servidor, testá-las e promovê-las para o próximo ambiente, percebe a necessidade de automatizar esse processo. É aí que entra a Integração Contínua (CI). Mas antes de ir para produção, são necessárias algumas verificações. É nesse ponto que a Entrega Contínua (CD) complementa o processo.
 
-
 - [ ] *PT* RedHat [O que é CI/CD?](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
 - [ ] *PT* AWS [O que é integração contínua e entrega/implantação contínuas?](https://docs.aws.amazon.com/pt_br/whitepapers/latest/practicing-continuous-integration-continuous-delivery/what-is-continuous-integration-and-continuous-deliverydeployment.html)
 - [ ] *EN* learning.sap [Exploring DevOps with SAP BTP](https://learning.sap.com/courses/exploring-devops-with-sap-btp/automate-your-application-endpoints-with-sap-job-scheduling-service)
 
+### **Git Commitizen** ###
+Commitizen is a powerful release management tool that helps teams maintain consistent and meaningful commit messages while automating version management. Effective commit messages allow you to easily understand the evolution of the software through the commit log.
+
+O Commitizen é uma ferramente para gerenciamento de versões que ajuda a manter mensagens de commit consistentes e com significado relevante, enquanto automatiza o gerenciamento de versões. Boas mensagens de commit permitem entender melhor a evolução do software através do log de commits.
+
+- [ ] *EN* commitizen-tools.gitub.io [Documentation](https://commitizen-tools.github.io/commitizen/)
