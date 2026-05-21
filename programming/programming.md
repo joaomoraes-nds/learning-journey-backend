@@ -40,9 +40,9 @@ JavaScript é a linguagem de programação utilizada pelos navegadores para real
 - [x] *EN* W3Schools [JS Intro](https://www.w3schools.com/js/js_intro.asp)
 - [x] *EN* W3Schools [AJAX Intro](https://www.w3schools.com/js/js_ajax_intro.asp)
 - [ ] *EN/ES* [The Modern JavaScript Tutorial](https://javascript.info/)
-- [ ] *PT* MDN [Primeiros passos com JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting)
+- [x] *PT* MDN [Primeiros passos com JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting)
 - [ ] *PT* USP [Aprendendo JavaScript](https://repositorio.usp.br/directbitstream/4cd7f9b7-7144-40f4-bfd0-7a1d9a6bd748/nd_72.pdf)
-- [ ] *PT* Khan Academy [Programação de computadores - JavaScript e a web](https://pt.khanacademy.org/computing/computer-programming)
+- [ ] *PT* Khan Academy [Programação de computadores - JavaScript e a web]( )
 
 ### **Node.js/npm**
 JavaScript became so common in the web environment that the frontend developers, experts in JS, started creating their own code for backend using JS as well. It's now known as Server-Side JavaScript. The most known and used runtime environment is Node.js.
