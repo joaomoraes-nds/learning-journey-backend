@@ -23,7 +23,7 @@ Learn how to participate in meetings: understand what you should contribute and 
 
 Aprenda como participar de reuniões: entenda o que você deve contribuir e o que deve levar delas. Você precisa aprender algo ou obter informações em uma reunião, e também deve sair com uma tarefa ou algo para ficar atento. Caso contrário, a reunião foi desnecessária. Para isso, é importante aprender a fazer as perguntas certas e responder de forma adequada.
 
-- [ ] *EN* Blog Semaphore.io [6 Tips for Improving Dev Team Communication and Collaboration](https://semaphore.io/blog/dev-team-communication)
+- [x] *EN* Blog Semaphore.io [6 Tips for Improving Dev Team Communication and Collaboration](https://semaphore.io/blog/dev-team-communication)
 - [ ] *EN* Blog LinkedIN [Effective Communication for Software Developers: Beyond the Code](http://linkedin.com/pulse/effective-communication-software-developers-beyond-code-naidoo-sf9yf/)
 - [ ] *EN* *ES* **Course Alison [Best Practices for Remote Work](https://alison.com/course/best-practices-for-remote-working)**
 - [ ] *PT* Webinar Programa Desenvolvimento de Gestores [Webinário: A importância da comunicação nas relações interpessoais no ambiente de trabalho](https://desenvolvimentodegestores.ufc.br/trilha-administrativa/formacao-comportamental/comunicacao/webinario-a-importancia-da-comunicacao-nas-relacoes-interpessoais-no-ambiente-de-trabalho/)
